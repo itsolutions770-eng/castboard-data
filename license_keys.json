@@ -1,0 +1,12 @@
+{
+  "XYWC-BQ8E-BJA2-JJ8E": {
+    "max_devices": 1,
+    "used_devices": 1,
+    "tier": "Single"
+  },
+  "QWTN-8H6U-ZRDW-PQJX": {
+    "max_devices": 2,
+    "used_devices": 2,
+    "tier": "Custom"
+  }
+}
