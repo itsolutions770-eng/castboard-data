@@ -1,0 +1,41 @@
+[
+  {
+    "license_key": "XYWC-BQ8E-BJA2-JJ8E",
+    "tier": "Single",
+    "max_devices": 1,
+    "customer_name": "ITSolutions",
+    "created_date": "08/18/2026",
+    "expires_at": "02/18/2027",
+    "approved_device_ids": [
+      "E51358E1"
+    ],
+    "device_android_ids": {
+      "2B5EC165": "45b344df5b4ca556",
+      "721E7A70": "45b344df5b4ca556",
+      "E51358E1": "45b344df5b4ca556"
+    },
+    "device_station_names": {
+      "E51358E1": "lab"
+    }
+  },
+  {
+    "license_key": "QWTN-8H6U-ZRDW-PQJX",
+    "tier": "Custom",
+    "max_devices": 2,
+    "customer_name": "DAIQUIRI DECK SOUTH SIESTA",
+    "created_date": "08/27/2026",
+    "expires_at": "08/27/2027",
+    "approved_device_ids": [
+      "C767BA1F"
+    ],
+    "device_android_ids": {
+      "D3EB75DA": "71d7a8a3ce73f08d",
+      "761DB4B4": "71d7a8a3ce73f08d",
+      "05DA0D3C": "52e0544ad1cef515",
+      "7DD61E76": "52e0544ad1cef515"
+    },
+    "device_station_names": {
+      "C767BA1F": "BAR UP"
+    }
+  }
+]
