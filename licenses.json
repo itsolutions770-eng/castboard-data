@@ -1,8 +1,8 @@
 [
   {
     "license_key": "XYWC-BQ8E-BJA2-JJ8E",
-    "tier": "Single",
-    "max_devices": 1,
+    "tier": "Multi",
+    "max_devices": 5,
     "customer_name": "ITSolutions",
     "created_date": "08/18/2026",
     "expires_at": "02/18/2027",
