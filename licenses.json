@@ -26,16 +26,19 @@
     "created_date": "08/27/2026",
     "expires_at": "08/27/2027",
     "approved_device_ids": [
-      "C767BA1F"
+      "C767BA1F",
+      "BF7FE78A"
     ],
     "device_android_ids": {
       "D3EB75DA": "71d7a8a3ce73f08d",
       "761DB4B4": "71d7a8a3ce73f08d",
       "05DA0D3C": "52e0544ad1cef515",
-      "7DD61E76": "52e0544ad1cef515"
+      "7DD61E76": "52e0544ad1cef515",
+      "BF7FE78A": "71d7a8a3ce73f08d"
     },
     "device_station_names": {
-      "C767BA1F": "BAR UP"
+      "C767BA1F": "BAR UP",
+      "BF7FE78A": "BAR DOWN"
     }
   }
 ]
