@@ -1,0 +1,36 @@
+[
+  {
+    "id": "b01c9bf7",
+    "message": "Happy Hour ending Soon Place your drink order ;-)",
+    "time": "17:56",
+    "recurrence": "daily",
+    "enabled": true,
+    "duration_seconds": 120,
+    "background_color": "#C9A24B",
+    "background_opacity": 75,
+    "text_color": "#ff0000",
+    "text_size_sp": 25,
+    "box_size": "small",
+    "blink": true,
+    "transition": "slide_right",
+    "repeat_interval_minutes": 15,
+    "repeat_until": "18:00"
+  },
+  {
+    "id": "21cc4c5a",
+    "message": "Happy Hour from 2pm - 6pm Everyday",
+    "time": "2:30pm",
+    "recurrence": "daily",
+    "enabled": true,
+    "duration_seconds": 15,
+    "background_color": "#C9A24B",
+    "background_opacity": 100,
+    "text_color": "#FFFFFF",
+    "text_size_sp": 32,
+    "box_size": "full",
+    "blink": false,
+    "transition": "fade",
+    "repeat_interval_minutes": 0,
+    "repeat_until": "23:59"
+  }
+]
