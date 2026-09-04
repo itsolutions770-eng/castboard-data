@@ -19,7 +19,7 @@
   {
     "id": "21cc4c5a",
     "message": "Happy Hour from 2pm - 6pm Everyday",
-    "time": "14:34",
+    "time": "14:39",
     "recurrence": "daily",
     "enabled": true,
     "duration_seconds": 15,
@@ -27,7 +27,7 @@
     "background_opacity": 100,
     "text_color": "#FFFFFF",
     "text_size_sp": 32,
-    "box_size": "full",
+    "box_size": "large",
     "blink": false,
     "transition": "fade",
     "repeat_interval_minutes": 0,
