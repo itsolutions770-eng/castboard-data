@@ -66,5 +66,22 @@
     "transition": "fade",
     "repeat_interval_minutes": 15,
     "repeat_until": "22:00"
+  },
+  {
+    "id": "e4e99210",
+    "message": "ciao",
+    "time": "22:10",
+    "recurrence": "daily",
+    "enabled": true,
+    "duration_seconds": 15,
+    "background_color": "#C9A24B",
+    "background_opacity": 100,
+    "text_color": "#FFFFFF",
+    "text_size_sp": 32,
+    "box_size": "full",
+    "blink": false,
+    "transition": "fade",
+    "repeat_interval_minutes": 0,
+    "repeat_until": "23:59"
   }
 ]
