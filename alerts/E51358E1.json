@@ -96,9 +96,9 @@
     "text_color": "#FFFFFF",
     "text_size_sp": 32,
     "box_size": "full",
-    "blink": false,
+    "blink": true,
     "transition": "fade",
     "repeat_interval_minutes": 0,
-    "repeat_until": "23:59"
+    "repeat_until": ""
   }
 ]
