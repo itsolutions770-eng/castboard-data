@@ -53,7 +53,7 @@
   {
     "id": "2d0d12fb",
     "message": "test alerts",
-    "time": "21:33",
+    "time": "21:38",
     "recurrence": "daily",
     "enabled": true,
     "duration_seconds": 15,
@@ -61,7 +61,7 @@
     "background_opacity": 100,
     "text_color": "#FFFFFF",
     "text_size_sp": 32,
-    "box_size": "full",
+    "box_size": "large",
     "blink": false,
     "transition": "fade",
     "repeat_interval_minutes": 15,
