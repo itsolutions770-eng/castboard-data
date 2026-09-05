@@ -66,5 +66,22 @@
     "transition": "bounce",
     "repeat_interval_minutes": 0,
     "repeat_until": ""
+  },
+  {
+    "id": "27d1499e",
+    "message": "test auto",
+    "time": "01:10",
+    "recurrence": "daily",
+    "enabled": true,
+    "duration_seconds": 60,
+    "background_color": "#C9A24B",
+    "background_opacity": 60,
+    "text_color": "#FFFFFF",
+    "text_size_sp": 32,
+    "box_size": "medium",
+    "blink": false,
+    "transition": "zoom",
+    "repeat_interval_minutes": 0,
+    "repeat_until": ""
   }
 ]
