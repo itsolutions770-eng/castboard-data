@@ -36,7 +36,7 @@
   {
     "id": "b960f59f",
     "message": "test 4 from client",
-    "time": "00:55",
+    "time": "00:59",
     "recurrence": "daily",
     "enabled": true,
     "duration_seconds": 15,
