@@ -87,7 +87,7 @@
   {
     "id": "f897648e",
     "message": "auto client",
-    "time": "01:12",
+    "time": "01:19",
     "recurrence": "daily",
     "enabled": true,
     "duration_seconds": 15,
