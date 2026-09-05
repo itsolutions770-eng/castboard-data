@@ -2,7 +2,7 @@
   {
     "id": "b590aa9e",
     "message": "test1",
-    "time": "12:21",
+    "time": "00:27",
     "recurrence": "daily",
     "enabled": true,
     "duration_seconds": 60,
