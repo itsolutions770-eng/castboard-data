@@ -65,6 +65,6 @@
     "blink": false,
     "transition": "fade",
     "repeat_interval_minutes": 15,
-    "repeat_until": "10:00"
+    "repeat_until": "22:00"
   }
 ]
