@@ -19,7 +19,7 @@
   {
     "id": "b6035f04",
     "message": "test 2",
-    "time": "12:24",
+    "time": "8:24",
     "recurrence": "daily",
     "enabled": true,
     "duration_seconds": 15,
