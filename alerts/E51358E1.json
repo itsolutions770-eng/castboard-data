@@ -53,7 +53,7 @@
   {
     "id": "2d0d12fb",
     "message": "test alerts",
-    "time": "21:39",
+    "time": "21:41",
     "recurrence": "daily",
     "enabled": true,
     "duration_seconds": 15,
