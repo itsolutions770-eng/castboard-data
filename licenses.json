@@ -7,15 +7,18 @@
     "created_date": "08/18/2026",
     "expires_at": "02/18/2027",
     "approved_device_ids": [
-      "E51358E1"
+      "E51358E1",
+      "1C946696"
     ],
     "device_android_ids": {
       "2B5EC165": "45b344df5b4ca556",
       "721E7A70": "45b344df5b4ca556",
-      "E51358E1": "45b344df5b4ca556"
+      "E51358E1": "45b344df5b4ca556",
+      "1C946696": "81b37e87955c1a5e"
     },
     "device_station_names": {
-      "E51358E1": "lab"
+      "E51358E1": "lab",
+      "1C946696": "OAK ST LAB"
     }
   },
   {
