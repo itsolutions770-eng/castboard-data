@@ -1,1 +1,19 @@
-[]
+[
+  {
+    "id": "43d9ca7a",
+    "message": "HELLO",
+    "time": "23:25",
+    "recurrence": "daily",
+    "enabled": true,
+    "duration_seconds": 60,
+    "background_color": "#C9A24B",
+    "background_opacity": 40,
+    "text_color": "#ff0000",
+    "text_size_sp": 32,
+    "box_size": "medium",
+    "blink": true,
+    "transition": "spin",
+    "repeat_interval_minutes": 15,
+    "repeat_until": "24:00"
+  }
+]
