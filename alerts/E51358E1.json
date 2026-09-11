@@ -153,23 +153,6 @@
     "repeat_until": ""
   },
   {
-    "id": "7be6ce40",
-    "message": "TEST 5 AUTO APPROVE OFF",
-    "time": "15:28",
-    "recurrence": "daily",
-    "enabled": true,
-    "duration_seconds": 15,
-    "background_color": "#C9A24B",
-    "background_opacity": 100,
-    "text_color": "#FFFFFF",
-    "text_size_sp": 32,
-    "box_size": "medium",
-    "blink": false,
-    "transition": "fade",
-    "repeat_interval_minutes": 0,
-    "repeat_until": ""
-  },
-  {
     "id": "c4384882",
     "message": "TEST 6 OAK STREET",
     "time": "15:43",
