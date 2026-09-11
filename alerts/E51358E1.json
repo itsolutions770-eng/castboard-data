@@ -136,23 +136,6 @@
     "repeat_until": "23:59"
   },
   {
-    "id": "7b347a12",
-    "message": "TEST 4 OAK STREET AUTO APPROVE ON",
-    "time": "15:22",
-    "recurrence": "daily",
-    "enabled": true,
-    "duration_seconds": 15,
-    "background_color": "#C9A24B",
-    "background_opacity": 100,
-    "text_color": "#FFFFFF",
-    "text_size_sp": 32,
-    "box_size": "medium",
-    "blink": false,
-    "transition": "fade",
-    "repeat_interval_minutes": 0,
-    "repeat_until": ""
-  },
-  {
     "id": "c4384882",
     "message": "TEST 6 OAK STREET",
     "time": "15:43",
