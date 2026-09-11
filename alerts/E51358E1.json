@@ -304,5 +304,22 @@
     "transition": "fade",
     "repeat_interval_minutes": 0,
     "repeat_until": ""
+  },
+  {
+    "id": "b37b753e",
+    "message": "HELLO TIMING FIXED",
+    "time": "17:00",
+    "recurrence": "daily",
+    "enabled": true,
+    "repeat_interval_minutes": 0,
+    "repeat_until": "23:59",
+    "duration_seconds": 120,
+    "background_color": "#C9A24B",
+    "background_opacity": 55,
+    "text_color": "#800000",
+    "text_size_sp": 32,
+    "box_size": "full",
+    "blink": true,
+    "transition": "bounce"
   }
 ]
