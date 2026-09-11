@@ -291,7 +291,7 @@
   {
     "id": "9703dc33",
     "message": "TEST 20 FROM CLIENT",
-    "time": "16:42",
+    "time": "16:46",
     "recurrence": "daily",
     "enabled": true,
     "duration_seconds": 120,
