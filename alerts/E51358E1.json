@@ -294,15 +294,15 @@
     "time": "16:42",
     "recurrence": "daily",
     "enabled": true,
-    "repeat_interval_minutes": 0,
-    "repeat_until": "23:59",
-    "duration_seconds": 15,
+    "duration_seconds": 120,
     "background_color": "#C9A24B",
     "background_opacity": 50,
     "text_color": "#ff0000",
     "text_size_sp": 32,
     "box_size": "medium",
     "blink": true,
-    "transition": "fade"
+    "transition": "fade",
+    "repeat_interval_minutes": 0,
+    "repeat_until": ""
   }
 ]
