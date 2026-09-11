@@ -1,22 +1,5 @@
 [
   {
-    "id": "8f45569d",
-    "message": "Test  alerts from oak",
-    "time": "14:23",
-    "recurrence": "daily",
-    "enabled": true,
-    "duration_seconds": 15,
-    "background_color": "#C9A24B",
-    "background_opacity": 100,
-    "text_color": "#FFFFFF",
-    "text_size_sp": 32,
-    "box_size": "full",
-    "blink": false,
-    "transition": "fade",
-    "repeat_interval_minutes": 0,
-    "repeat_until": "23:59"
-  },
-  {
     "id": "40e66699",
     "message": "TEST 5",
     "time": "15:55",
