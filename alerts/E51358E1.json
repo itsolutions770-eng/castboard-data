@@ -15,5 +15,22 @@
     "box_size": "full",
     "blink": true,
     "transition": "bounce"
+  },
+  {
+    "id": "b6d135fd",
+    "message": "test test",
+    "time": "19:45",
+    "recurrence": "daily",
+    "enabled": true,
+    "repeat_interval_minutes": 0,
+    "repeat_until": "23:59",
+    "duration_seconds": 60,
+    "background_color": "#C9A24B",
+    "background_opacity": 45,
+    "text_color": "#ff0000",
+    "text_size_sp": 32,
+    "box_size": "medium",
+    "blink": true,
+    "transition": "fade"
   }
 ]
