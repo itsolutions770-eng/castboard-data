@@ -36,11 +36,9 @@
   {
     "id": "d23e8a71",
     "message": "Hello Joe",
-    "time": "22:17",
+    "time": "22:19",
     "recurrence": "daily",
     "enabled": true,
-    "repeat_interval_minutes": 0,
-    "repeat_until": "23:59",
     "duration_seconds": 60,
     "background_color": "#C9A24B",
     "background_opacity": 55,
@@ -48,6 +46,8 @@
     "text_size_sp": 32,
     "box_size": "medium",
     "blink": true,
-    "transition": "slide_left"
+    "transition": "slide_left",
+    "repeat_interval_minutes": 0,
+    "repeat_until": ""
   }
 ]
