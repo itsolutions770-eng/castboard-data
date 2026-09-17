@@ -2,7 +2,7 @@
   {
     "id": "43d9ca7a",
     "message": "HELLO",
-    "time": "23:45",
+    "time": "09:28",
     "recurrence": "daily",
     "enabled": true,
     "duration_seconds": 60,
@@ -14,23 +14,6 @@
     "blink": true,
     "transition": "spin",
     "repeat_interval_minutes": 15,
-    "repeat_until": "24:00"
-  },
-  {
-    "id": "c4b1da8a",
-    "message": "test home lab",
-    "time": "09:16",
-    "recurrence": "daily",
-    "enabled": true,
-    "repeat_interval_minutes": 0,
-    "repeat_until": "23:59",
-    "duration_seconds": 60,
-    "background_color": "#C9A24B",
-    "background_opacity": 60,
-    "text_color": "#ff0000",
-    "text_size_sp": 32,
-    "box_size": "medium",
-    "blink": true,
-    "transition": "slide_left"
+    "repeat_until": "23:59"
   }
 ]
