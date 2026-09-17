@@ -36,11 +36,9 @@
   {
     "id": "c0efdf02",
     "message": "jellooo",
-    "time": "21:29",
+    "time": "21:32",
     "recurrence": "daily",
     "enabled": true,
-    "repeat_interval_minutes": 0,
-    "repeat_until": "23:59",
     "duration_seconds": 60,
     "background_color": "#C9A24B",
     "background_opacity": 45,
@@ -48,6 +46,8 @@
     "text_size_sp": 32,
     "box_size": "medium",
     "blink": true,
-    "transition": "bounce"
+    "transition": "bounce",
+    "repeat_interval_minutes": 0,
+    "repeat_until": ""
   }
 ]
