@@ -2,17 +2,17 @@
   {
     "id": "62da9e67",
     "message": "LIVE MUSIC !! TONY LEODORA WILL ROCK THE HOUSE - SATURDAY OCT 10TH AT 5:30PM !!",
-    "time": "15:30",
+    "time": "14:30",
     "recurrence": "daily",
     "enabled": true,
     "duration_seconds": 60,
     "background_color": "#ff8040",
-    "background_opacity": 65,
+    "background_opacity": 60,
     "text_color": "#ffffff",
     "text_size_sp": 32,
     "box_size": "medium",
     "blink": true,
-    "transition": "spin",
+    "transition": "bounce",
     "repeat_interval_minutes": 15,
     "repeat_until": "22:30"
   }
