@@ -7,12 +7,12 @@
     "enabled": true,
     "duration_seconds": 60,
     "background_color": "#ff8040",
-    "background_opacity": 55,
-    "text_color": "#df0000",
+    "background_opacity": 65,
+    "text_color": "#ffffff",
     "text_size_sp": 32,
     "box_size": "medium",
     "blink": true,
-    "transition": "bounce",
+    "transition": "spin",
     "repeat_interval_minutes": 15,
     "repeat_until": "22:30"
   }
