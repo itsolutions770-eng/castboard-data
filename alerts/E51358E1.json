@@ -7,7 +7,7 @@
     "enabled": true,
     "duration_seconds": 90,
     "background_color": "#ff8040",
-    "background_opacity": 80,
+    "background_opacity": 90,
     "text_color": "#ffffff",
     "text_size_sp": 32,
     "box_size": "medium",
