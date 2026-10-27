@@ -1,19 +1,19 @@
 [
-  {
-    "id": "62da9e67",
-    "message": "LIVE MUSIC !! TONY LEODORA WILL ROCK THE HOUSE - SATURDAY OCT 24TH AT 5:30PM !!",
-    "time": "11:45",
-    "recurrence": "daily",
-    "enabled": true,
-    "duration_seconds": 90,
-    "background_color": "#ff8040",
-    "background_opacity": 95,
-    "text_color": "#ffffff",
-    "text_size_sp": 32,
-    "box_size": "medium",
-    "blink": true,
-    "transition": "spin",
-    "repeat_interval_minutes": 15,
-    "repeat_until": "23:30"
-  }
+    {
+        "id": "62da9e67",
+        "message": "LIVE MUSIC !! TONY LEODORA WILL ROCK THE HOUSE - SATURDAY OCT 31ST AT 5:30PM !!",
+        "time": "11:45",
+        "recurrence": "daily",
+        "enabled": true,
+        "duration_seconds": 90,
+        "background_color": "#FF8040",
+        "background_opacity": 95,
+        "text_color": "#FFFFFF",
+        "text_size_sp": 32,
+        "box_size": "medium",
+        "blink": true,
+        "transition": "spin",
+        "repeat_interval_minutes": 15,
+        "repeat_until": "23:30"
+    }
 ]
