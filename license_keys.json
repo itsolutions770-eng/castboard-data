@@ -8,5 +8,10 @@
         "max_devices": 2,
         "used_devices": 2,
         "tier": "Custom"
+    },
+    "BU99-YBNK-H2CD-TZEQ": {
+        "max_devices": 2,
+        "used_devices": 0,
+        "tier": "Custom"
     }
 }
