@@ -1,17 +1,17 @@
 {
-    "XYWC-BQ8E-BJA2-JJ8E": {
-        "max_devices": 5,
-        "used_devices": 2,
-        "tier": "Multi"
-    },
-    "QWTN-8H6U-ZRDW-PQJX": {
-        "max_devices": 2,
-        "used_devices": 2,
-        "tier": "Custom"
-    },
-    "BU99-YBNK-H2CD-TZEQ": {
-        "max_devices": 2,
-        "used_devices": 2,
-        "tier": "Custom"
-    }
+  "XYWC-BQ8E-BJA2-JJ8E": {
+    "max_devices": 5,
+    "used_devices": 3,
+    "tier": "Multi"
+  },
+  "QWTN-8H6U-ZRDW-PQJX": {
+    "max_devices": 2,
+    "used_devices": 2,
+    "tier": "Custom"
+  },
+  "BU99-YBNK-H2CD-TZEQ": {
+    "max_devices": 2,
+    "used_devices": 2,
+    "tier": "Custom"
+  }
 }
