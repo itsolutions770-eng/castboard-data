@@ -15,5 +15,22 @@
         "transition": "spin",
         "repeat_interval_minutes": 15,
         "repeat_until": "23:30"
+    },
+    {
+        "id": "7cfcc637",
+        "message": "HAPPY HOUR EVERY DAY FROM 2PM TO 6PM",
+        "time": "14:00",
+        "recurrence": "daily",
+        "enabled": true,
+        "duration_seconds": 60,
+        "background_color": "#19169C",
+        "background_opacity": 100,
+        "text_color": "#D7F401",
+        "text_size_sp": 32,
+        "box_size": "medium",
+        "blink": true,
+        "transition": "fade",
+        "repeat_interval_minutes": 15,
+        "repeat_until": "18:00"
     }
 ]
