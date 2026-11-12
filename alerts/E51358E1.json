@@ -23,7 +23,7 @@
         "recurrence": "daily",
         "enabled": true,
         "duration_seconds": 60,
-        "background_color": "#19169C",
+        "background_color": "#9C2A16",
         "background_opacity": 100,
         "text_color": "#D7F401",
         "text_size_sp": 32,
