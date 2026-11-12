@@ -32,5 +32,22 @@
         "transition": "fade",
         "repeat_interval_minutes": 15,
         "repeat_until": "18:00"
+    },
+    {
+        "id": "4b4f536c",
+        "message": "HAPPY HOUR ENDING SOON !!",
+        "time": "17:30",
+        "recurrence": "daily",
+        "enabled": true,
+        "duration_seconds": 45,
+        "background_color": "#237604",
+        "background_opacity": 100,
+        "text_color": "#F5ED0A",
+        "text_size_sp": 32,
+        "box_size": "medium",
+        "blink": true,
+        "transition": "fade",
+        "repeat_interval_minutes": 15,
+        "repeat_until": "18:00"
     }
 ]
