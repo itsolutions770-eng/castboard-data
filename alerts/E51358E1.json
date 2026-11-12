@@ -29,7 +29,7 @@
         "text_size_sp": 32,
         "box_size": "medium",
         "blink": true,
-        "transition": "fade",
+        "transition": "spin",
         "repeat_interval_minutes": 15,
         "repeat_until": "18:00"
     },
