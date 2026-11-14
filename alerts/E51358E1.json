@@ -31,7 +31,7 @@
         "blink": true,
         "transition": "spin",
         "repeat_interval_minutes": 15,
-        "repeat_until": "18:00"
+        "repeat_until": "17:15"
     },
     {
         "id": "4b4f536c",
