@@ -49,5 +49,22 @@
         "transition": "spin",
         "repeat_interval_minutes": 15,
         "repeat_until": "18:00"
+    },
+    {
+        "id": "f644141f",
+        "message": "LIVE MUSIC !! ALIE GRIPPA WILL ROCK THE HOUSE -SATURDAY NOV 21ST  AT 5:30PM !!",
+        "time": "12:10",
+        "recurrence": "daily",
+        "enabled": true,
+        "duration_seconds": 15,
+        "background_color": "#BA4AC9",
+        "background_opacity": 89,
+        "text_color": "#FFFFFF",
+        "text_size_sp": 32,
+        "box_size": "medium",
+        "blink": true,
+        "transition": "spin",
+        "repeat_interval_minutes": 15,
+        "repeat_until": "23:30"
     }
 ]
